@@ -9,6 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print('My first git program')
     print('And I change it every day')
+    print('Again')
+    print('UFO came and added this line')
 
 
 # Press the green button in the gutter to run the script.
